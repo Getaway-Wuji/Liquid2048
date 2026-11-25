@@ -1,0 +1,10 @@
+.git
+.vercel
+.vercel-build-tools
+node_modules
+sobosuba-engine/target
+src/sobosuba/sobosuba_engine.wasm
+dist
+test-results
+playwright-report
+artifacts
